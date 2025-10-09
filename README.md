@@ -10,6 +10,7 @@
 * **Ruy Luiz da Silva Machado Neto** - Polo Vila Velha
 * **Everton Barbosa dos Santos** - Polo Vila Velha  
 * **Leonardo Silveira Martins** - Polo Conceição da Barra
+* **Lucas Pereira de Albuquerque Faria** - Polo Venda Nova do Imigrante
 
 ---
 
