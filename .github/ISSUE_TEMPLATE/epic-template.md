@@ -29,7 +29,7 @@ assignees: ''
 **Sprint Alvo:** [Sprint X]
 
 ## 👥 Responsáveis
-**Product Owner:** @
-**Desenvolvedores:** @
+**Product Owner:** @404-tonbarbosa @leonardomartins1
+**Desenvolvedores:** @404-tonbarbosa @leonardomartins1
 
 ## 📝 Notas Adicionais
