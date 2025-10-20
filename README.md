@@ -7,6 +7,7 @@
 
 ## 👥 Integrantes
 
+* **Matheus Guimarães Lopes Pereira Corrêa Teixeira Manga Cordeiro** - Polo Vila Velha
 * **Ruy Luiz da Silva Machado Neto** - Polo Vila Velha
 * **Everton Barbosa dos Santos** - Polo Vila Velha  
 * **Leonardo Silveira Martins** - Polo Conceição da Barra
